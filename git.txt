@@ -1,0 +1,24 @@
+Configuracion de Credenciales 
+     correo de github
+     usuario de github
+
+git config --global user.name "usuario de github"
+     git config --global user.name daewies
+
+git config --global user.email "correo de github"
+     git config --global user.email sachy21066@gmail.com
+
+
+1- git init (iniciando un repostorio vacio)
+2- git add . (se incluye todo el contenido del proyecto para el versionamiento)
+3- git commit -m (mensaje descriptivo)
+4- git remote add origin (url)
+5- git push -u origin master o min
+
+git clone (crea un clon del archivo)
+
+repositorio github
+    - moinusculas
+    - sin acento
+    - sin espacios 
+    - sion guiaones bajos 
